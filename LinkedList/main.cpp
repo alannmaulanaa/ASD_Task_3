@@ -50,7 +50,7 @@ void mainMenu(){
     cin >> pilih;
     if(pilih == 1)
     {
-        cout << "Masukan data karyawan baru anda: ";
+       cout << "Masukan data karyawan baru anda: ";
         cout << " Masukkan ID anda: ";cin >> x.id;
         cout << " Masukkan Nama anda: ";cin>>x.nama;
         cout << " Masukkan Alamat anda: ";cin>>x.alamat;
